@@ -1,4 +1,4 @@
-# Ride With Me - Mobile-Client Application 
+# Ride With Me - Mobile Client Application 
 
 Android Web Client Application for Ride-With-Me Web Application
 
